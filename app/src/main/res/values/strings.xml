@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FLAMES</string>
+    <string name="name1">Enter your name</string>
+    <string name="name2">Enter his/her name</string>
+    <string name="cal">Find</string>
+    <string name="owner">By POORNACHANDRAN</string>
+</resources>
